@@ -1,0 +1,7 @@
+C:\Users\Madsen\source\repos\CalculadoraCMDCSharp\CalculadoraCMDCSharp\bin\Debug\CalculadoraCMDCSharp.exe.config
+C:\Users\Madsen\source\repos\CalculadoraCMDCSharp\CalculadoraCMDCSharp\bin\Debug\CalculadoraCMDCSharp.exe
+C:\Users\Madsen\source\repos\CalculadoraCMDCSharp\CalculadoraCMDCSharp\bin\Debug\CalculadoraCMDCSharp.pdb
+C:\Users\Madsen\source\repos\CalculadoraCMDCSharp\CalculadoraCMDCSharp\obj\Debug\CalculadoraCMDCSharp.csproj.AssemblyReference.cache
+C:\Users\Madsen\source\repos\CalculadoraCMDCSharp\CalculadoraCMDCSharp\obj\Debug\CalculadoraCMDCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Madsen\source\repos\CalculadoraCMDCSharp\CalculadoraCMDCSharp\obj\Debug\CalculadoraCMDCSharp.exe
+C:\Users\Madsen\source\repos\CalculadoraCMDCSharp\CalculadoraCMDCSharp\obj\Debug\CalculadoraCMDCSharp.pdb
