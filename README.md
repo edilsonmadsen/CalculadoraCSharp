@@ -1,4 +1,4 @@
-# CalculadoraCSharp
+# Calculadora em C#
 <br>
 Calculadora Simples utilizando C# com as funções básicas.
 
