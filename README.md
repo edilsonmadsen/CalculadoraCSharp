@@ -9,6 +9,7 @@ Calculadora Simples utilizando C# com as funções básicas.
 Executar o projeto no caminho:
 
 CalculadoraCSharp/CalculadoraCMDCSharp/bin/Debug/CalculadoraCMDCSharp.exe
+
 ```
 
 ## 🛠️ Construído com as seguintes linguagens e frameworks:
